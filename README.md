@@ -2,8 +2,8 @@
 
 ## DOI
 
-* Article:  https://doi.org/10.5194/gmd-2020-432
-* Zenodo:  http://doi.org/10.5281/zenodo.4384731
+Article |  https://doi.org/10.5194/gmd-2020-432
+Zenodo  |  http://doi.org/10.5281/zenodo.4384731
 
 ## Description
 
